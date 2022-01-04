@@ -19,7 +19,7 @@ h1 {
 
 section {
     display: flex;
-
+    margin-bottom: 100px;
 }
 
 .half-width {
@@ -49,7 +49,10 @@ section {
     background-repeat: no-repeat;
 
 }
-
+.secend-img{
+    width: 85%;
+    padding-top: 20px;
+}
 
 
 
