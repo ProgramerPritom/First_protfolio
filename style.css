@@ -17,7 +17,7 @@ h1 {
 
 }
 
-section {
+.flexiable-content {
     display: flex;
     margin-bottom: 100px;
 }
@@ -74,11 +74,44 @@ section {
     padding-right: 125px;
 }
 
-
-
-
-
-
+.exprience-box{
+    width: 50%;
+    margin-left: 72px;
+    padding: 18px 40px 16px 55px;
+    justify-content: center;
+    box-shadow: 5px 7px 70px grey;
+    margin-right: 45px;
+    height: 400px;
+    border-radius: 10px;
+}
+.exprience-h{
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 60px; 
+}
+.exprience-box h3{
+    color: #E06C0D;
+}
+.exprience-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+.footer-area{
+    text-align: center;
+    font-size: 18px;
+}
 
 
 
