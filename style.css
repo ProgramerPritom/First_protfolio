@@ -1,3 +1,93 @@
-body{
+body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
+
+h1 {
+    font-size: 50px;
+}
+
+.secend-text {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.pritom-text {
+    color: rgb(224, 108, 13);
+
+}
+
+section {
+    display: flex;
+
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 60px;
+}
+
+
+.first-protfolio {
+    width: 77%;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg, salmon, orange);
+    color: white;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.top-banner {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
